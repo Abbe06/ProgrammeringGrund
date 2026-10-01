@@ -2,4 +2,5 @@
   <Project Path="IterationStatments-Ovning5/IterationStatments-Ovning5.csproj" />
   <Project Path="IterationStatments-Ovning6/IterationStatments-Ovning6.csproj" Id="6923ef8a-89b7-42c2-a7e1-b158dd0e0431" />
   <Project Path="IterationStatments-Ovning7/IterationStatments-Ovning7.csproj" Id="d6488866-4128-4a0d-af00-ff29cdff8185" />
+  <Project Path="JumpStatments/JumpStatments.csproj" Id="70545367-3453-4734-8622-241c5c19fba6" />
 </Solution>
