@@ -1,0 +1,21 @@
+﻿int current = int.Parse(Console.ReadLine());
+
+CountToTen();
+CountToTwenty();
+
+
+void CountToTen()
+{
+    for (int current = 1; current <= 10; current++)
+    {
+        Console.WriteLine(current);
+    }
+}
+void CountToTwenty()
+{
+    for (int current = 1; current <= 20; current++)
+    {
+        Console.WriteLine(current);
+    }
+}
+
